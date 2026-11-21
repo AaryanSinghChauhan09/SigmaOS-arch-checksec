@@ -1,5 +1,5 @@
 [component]
-name = "SigmaOS-arch-checksec"
+name = "SigmaOS-checksec"
 tier = 2
 stability = "scaffold"
 language = "rust"

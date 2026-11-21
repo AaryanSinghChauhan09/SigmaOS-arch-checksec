@@ -1,4 +1,4 @@
-use arch_checksec::Component;
+use sigmaos_checksec::Component;
 
 #[test]
 fn test_component_new_aaa() {

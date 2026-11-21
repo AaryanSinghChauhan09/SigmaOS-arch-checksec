@@ -1,4 +1,4 @@
-# SigmaOS-arch-checksec
+# SigmaOS-checksec
 
 GitHub description is a placeholder; component scope remains unclassified.
 
